@@ -2,7 +2,6 @@
 http://frostytoolsuitedev.gitlab.io/downloads.html
 
 # Game Play
-
 Shorter Landings
 https://www.nexusmods.com/masseffectandromeda/mods/467
 
@@ -25,7 +24,6 @@ Cursor fix
 https://www.nexusmods.com/masseffectandromeda/mods/578
 
 # Graphics 
-
 Blue Scanner and Omnitool inc Combat Omni
 https://www.nexusmods.com/masseffectandromeda/mods/360
 
@@ -45,7 +43,6 @@ Unmasked Peebee
 https://www.nexusmods.com/masseffectandromeda/mods/208
 
 # Easier Game Play
-
 More Minerals in Mining Zones
 https://www.nexusmods.com/masseffectandromeda/mods/681
 
