@@ -30,7 +30,7 @@ https://www.nexusmods.com/masseffect2/mods/63
 Copy the Vanilla\BioGame directory to your Mass Effect 2 install directory overriding the originals (Back them up first).
 Example directory : D:\Steam\steamapps\common\Mass Effect 2
 
-# Once install not recommeneded to add mods
+# Once ALOT is installed it's not recommended to add mods
 A Lot Of Textures (ALOT) for ME2
 https://www.nexusmods.com/masseffect2/mods/68
 
