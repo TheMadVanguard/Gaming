@@ -1,6 +1,10 @@
 # Mod Manager
 https://frostytoolsuite.com/downloads.html
 
+# Bug Fixes
+MEA Fixpack
+https://www.nexusmods.com/masseffectandromeda/mods/541
+
 # Game Play
 Shorter Landings
 https://www.nexusmods.com/masseffectandromeda/mods/467
@@ -30,6 +34,9 @@ https://www.nexusmods.com/masseffectandromeda/mods/360
 Asari Tweaks
 https://www.nexusmods.com/masseffectandromeda/mods/455
 
+Pretty Cora
+https://www.nexusmods.com/masseffectandromeda/mods/494
+
 Addison Tweak
 https://www.nexusmods.com/masseffectandromeda/mods/457
 
@@ -41,6 +48,9 @@ https://www.nexusmods.com/masseffectandromeda/mods/342
 
 Unmasked Peebee
 https://www.nexusmods.com/masseffectandromeda/mods/208
+
+Smooth Planet Approach
+https://www.nexusmods.com/masseffectandromeda/mods/786
 
 # Easier Game Play
 More Minerals in Mining Zones
