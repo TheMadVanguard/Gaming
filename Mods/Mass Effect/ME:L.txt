@@ -8,3 +8,7 @@ https://www.nexusmods.com/masseffectlegendaryedition/mods/20
 # ME:2
 ME2LE One Probe All Resources
 https://www.nexusmods.com/masseffectlegendaryedition/mods/149
+
+# ME:3
+No Reapers and Unlimited Scan range on Galaxy Map
+https://www.nexusmods.com/masseffectlegendaryedition/mods/141
