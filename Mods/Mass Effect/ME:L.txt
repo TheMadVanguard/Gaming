@@ -5,9 +5,16 @@ https://www.nexusmods.com/masseffectlegendaryedition/mods/27
 Trilogy Save Editor
 https://www.nexusmods.com/masseffectlegendaryedition/mods/20
 
+# ME:All
+New Lashes for FemShep
+https://www.nexusmods.com/masseffectlegendaryedition/mods/211
+
 # ME:2
 ME2LE One Probe All Resources
 https://www.nexusmods.com/masseffectlegendaryedition/mods/149
+
+ME2 Miranda Makeup Edit
+https://www.nexusmods.com/masseffectlegendaryedition/mods/240
 
 # ME:3
 No Reapers and Unlimited Scan range on Galaxy Map
