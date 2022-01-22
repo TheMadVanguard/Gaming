@@ -1,23 +1,38 @@
 WIP
 
 # Utilites
+
+Fallout3 WinXP-7-8-10 Multicore Threading 4GB LAA with 4GB FOSE Setup - MCTF
+https://www.nexusmods.com/fallout3/mods/21888
+
 ArchiveInvalidation Invalidated 
-# Not needed with Steam 
+# Not needed with Steam but needed for Updated Unofficial Fallout 3 Patch
 https://www.nexusmods.com/fallout3/mods/944
+
+Fallout Script Extender (FOSE)
+# Does not work with Steam 1.7.0.4
+https://fose.silverlock.org/
+
+Fallout Anniversary Patcher
+# Replaces FOSE when using Steam 1.7.0.4
+https://www.nexusmods.com/fallout3/mods/24913
+
+Command Extender
+https://www.nexusmods.com/fallout3/mods/23682
+
+Large Address Aware Enabler for FO3
+https://www.nexusmods.com/fallout3/mods/6510
 
 Games for Windows LIVE Disabler 
 # Wasn't need with Win11
 https://www.nexusmods.com/fallout3/mods/1086
 
+Mod Organizer 2
+https://www.nexusmods.com/skyrimspecialedition/mods/6194
+
 #Patches
 Updated Unofficial Fallout 3 Patch
 https://www.nexusmods.com/fallout3/mods/19122
-
-Large Address Aware Enabler for FO3
-https://www.nexusmods.com/fallout3/mods/6510
-
-Fallout3 WinXP-7-8-10 Multicore Threading 4GB LAA with 4GB FOSE Setup - MCTF
-https://www.nexusmods.com/fallout3/mods/21888
 
 # Textures
 NMCs_Texture_Pack_for_FO3
@@ -140,3 +155,6 @@ https://www.nexusmods.com/fallout3/mods/16001
 
 Force Lock Chance Always 100 Percent
 https://www.nexusmods.com/fallout3/mods/7599
+
+Hacking terminals is easier
+https://www.nexusmods.com/fallout3/mods/2333
