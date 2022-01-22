@@ -1,10 +1,12 @@
 WIP
 
-#Utilites
-ArchiveInvalidation Invalidated
+# Utilites
+ArchiveInvalidation Invalidated 
+# Not needed with Steam 
 https://www.nexusmods.com/fallout3/mods/944
 
-Games for Windows LIVE Disabler
+Games for Windows LIVE Disabler 
+# Wasn't need with Win11
 https://www.nexusmods.com/fallout3/mods/1086
 
 #Patches
@@ -17,7 +19,7 @@ https://www.nexusmods.com/fallout3/mods/6510
 Fallout3 WinXP-7-8-10 Multicore Threading 4GB LAA with 4GB FOSE Setup - MCTF
 https://www.nexusmods.com/fallout3/mods/21888
 
-#Textures
+# Textures
 NMCs_Texture_Pack_for_FO3
 https://www.nexusmods.com/fallout3/mods/12056
 
@@ -123,7 +125,7 @@ https://www.nexusmods.com/fallout3/mods/1060
 Earth from Space texture for Mothership Zeta
 https://www.nexusmods.com/fallout3/mods/19294
 
-#Misc
+# Misc
 Fallout 3 Re-Animated
 https://www.nexusmods.com/fallout3/mods/7670
 
