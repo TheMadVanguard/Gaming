@@ -1,5 +1,8 @@
 WIP
 #Utilites
+Fallout 4 Script Extender (F4SE)
+http://f4se.silverlock.org/
+
 Armor and Weapon Keywords Community Resource (AWKCR)
 https://www.nexusmods.com/fallout4/mods/6091
 
