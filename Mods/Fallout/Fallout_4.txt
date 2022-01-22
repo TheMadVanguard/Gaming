@@ -42,6 +42,36 @@ https://www.nexusmods.com/fallout4/mods/9568
 Black Pip-Boy
 https://www.nexusmods.com/fallout4/mods/445
 
+Enhanced Blood Textures
+https://www.nexusmods.com/fallout4/mods/212
+
+See Through Scopes
+https://www.nexusmods.com/fallout4/mods/9476
+
+Craftable Ammo
+https://www.nexusmods.com/fallout4/mods/798
+
+Wearable Backpacks and Pouches
+https://www.nexusmods.com/fallout4/mods/3258
+
+GRASSLANDS - A Fallout 4 Grass Overhaul
+https://www.nexusmods.com/fallout4/mods/11267
+
+Brighter Settlement Lights
+https://www.nexusmods.com/fallout4/mods/2494
+
+Ponytail Hairstyles by Azar v2.5a
+https://www.nexusmods.com/fallout4/mods/8126
+
+Loving Cait
+https://www.nexusmods.com/fallout4/mods/7915
+
+Chinese Stealth Suit
+https://www.nexusmods.com/fallout4/mods/20959
+
+Scrap dead things
+https://www.nexusmods.com/fallout4/mods/6497
+
 #Misc
 Faster Terminal Displays
 https://www.nexusmods.com/fallout4/mods/937
@@ -51,6 +81,12 @@ https://www.nexusmods.com/fallout4/mods/4640
 
 Longer Power Lines
 https://www.nexusmods.com/fallout4/mods/2241
+
+Brawl Bug Fix
+https://www.nexusmods.com/fallout4/mods/16899
+
+Loot Detector
+https://www.nexusmods.com/fallout4/mods/4380
 
 Achievements
 https://www.nexusmods.com/fallout4/mods/12465
