@@ -27,10 +27,9 @@ Games for Windows LIVE Disabler
 # Wasn't need with Win11
 https://www.nexusmods.com/fallout3/mods/1086
 
-Mod Organizer 2
-https://www.nexusmods.com/skyrimspecialedition/mods/6194
 
-#Patches
+# The Following Mods Are Installed with Vortex
+# Patches
 Updated Unofficial Fallout 3 Patch
 https://www.nexusmods.com/fallout3/mods/19122
 
