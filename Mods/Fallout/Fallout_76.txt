@@ -1,6 +1,3 @@
-Baka File Tool - (Loose) File Loader
-https://www.nexusmods.com/fallout76/mods/9
-
 Recipes and Plans Glow
 https://www.nexusmods.com/fallout76/mods/84
 
@@ -14,3 +11,7 @@ https://www.nexusmods.com/fallout76/mods/91
 
 Lockpick Bar 76
 https://www.nexusmods.com/fallout76/mods/61
+
+# Use after add the mods
+Create Custom ini Continued Edition
+https://www.nexusmods.com/fallout76/mods/314
