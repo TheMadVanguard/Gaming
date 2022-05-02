@@ -15,6 +15,22 @@ https://www.nexusmods.com/masseffectlegendaryedition/mods/363
 New Lashes for FemShep
 https://www.nexusmods.com/masseffectlegendaryedition/mods/211
 
+# ME:1
+Charted Worlds (LE1)
+https://www.nexusmods.com/masseffectlegendaryedition/mods/524
+
+Skip Minigames (LE1)
+https://www.nexusmods.com/masseffectlegendaryedition/mods/360
+
+XP Rescale (LE1)
+https://www.nexusmods.com/masseffectlegendaryedition/mods/369
+
+Faster Airlock (LE1)
+https://www.nexusmods.com/masseffectlegendaryedition/mods/753
+
+Keepers Finders (LE1)
+https://www.nexusmods.com/masseffectlegendaryedition/mods/1043
+
 # ME:2
 ME2LE One Probe All Resources
 https://www.nexusmods.com/masseffectlegendaryedition/mods/149
@@ -24,6 +40,12 @@ https://www.nexusmods.com/masseffectlegendaryedition/mods/304
 
 ME2 Miranda Makeup Edit
 https://www.nexusmods.com/masseffectlegendaryedition/mods/240
+
+Shorter Notifications (LE2)
+https://www.nexusmods.com/masseffectlegendaryedition/mods/390
+
+Fish Feeder Mod
+https://www.nexusmods.com/masseffectlegendaryedition/mods/1135
 
 # ME:3
 No Reapers and Unlimited Scan range on Galaxy Map
