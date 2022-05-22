@@ -34,6 +34,12 @@ https://www.nexusmods.com/masseffectlegendaryedition/mods/753
 Keepers Finders (LE1)
 https://www.nexusmods.com/masseffectlegendaryedition/mods/1043
 
+Galaxy Map Trackers (LE1)
+https://www.nexusmods.com/masseffectlegendaryedition/mods/426
+
+Remove Screen Shake (LE1)
+https://www.nexusmods.com/masseffectlegendaryedition/mods/110
+
 # ME:2
 ME2LE One Probe All Resources
 https://www.nexusmods.com/masseffectlegendaryedition/mods/149
