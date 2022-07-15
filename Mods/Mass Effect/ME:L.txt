@@ -5,22 +5,37 @@ https://www.nexusmods.com/masseffectlegendaryedition/mods/2
 Trilogy Save Editor
 https://www.nexusmods.com/masseffectlegendaryedition/mods/20
 
+# ME:L
 Skip Launcher Intro
 https://www.nexusmods.com/masseffectlegendaryedition/mods/27
 
-# ME:All
-A Lot Of Textures (ALOT)
-https://www.nexusmods.com/masseffectlegendaryedition/mods/363
-
-New Lashes for FemShep
-https://www.nexusmods.com/masseffectlegendaryedition/mods/211
+Unofficial LE2 Patch
+https://www.nexusmods.com/masseffectlegendaryedition/mods/8
 
 # ME:1
-LE1 Community Patch
-https://www.nexusmods.com/masseffectlegendaryedition/mods/23
+Casual Hubs for LE1
+https://www.nexusmods.com/masseffectlegendaryedition/mods/574
 
 Charted Worlds (LE1)
 https://www.nexusmods.com/masseffectlegendaryedition/mods/524
+
+Faster Airlock (LE1)
+https://www.nexusmods.com/masseffectlegendaryedition/mods/753
+
+Galaxy Map Trackers (LE1)
+https://www.nexusmods.com/masseffectlegendaryedition/mods/426
+
+Keepers Finders (LE1)
+https://www.nexusmods.com/masseffectlegendaryedition/mods/1043
+
+LE1 Community Patch
+https://www.nexusmods.com/masseffectlegendaryedition/mods/23
+
+New Casuals for Femshep LE1
+https://www.nexusmods.com/masseffectlegendaryedition/mods/804
+
+Remove Screen Shake (LE1)
+https://www.nexusmods.com/masseffectlegendaryedition/mods/110
 
 Skip Minigames (LE1)
 https://www.nexusmods.com/masseffectlegendaryedition/mods/360
@@ -28,37 +43,77 @@ https://www.nexusmods.com/masseffectlegendaryedition/mods/360
 XP Rescale (LE1)
 https://www.nexusmods.com/masseffectlegendaryedition/mods/369
 
-Faster Airlock (LE1)
-https://www.nexusmods.com/masseffectlegendaryedition/mods/753
-
-Keepers Finders (LE1)
-https://www.nexusmods.com/masseffectlegendaryedition/mods/1043
-
-Galaxy Map Trackers (LE1)
-https://www.nexusmods.com/masseffectlegendaryedition/mods/426
-
-Remove Screen Shake (LE1)
-https://www.nexusmods.com/masseffectlegendaryedition/mods/110
+Same-Gender Romances for LE1
+https://www.nexusmods.com/masseffectlegendaryedition/mods/564
 
 # ME:2
-ME2LE One Probe All Resources
-https://www.nexusmods.com/masseffectlegendaryedition/mods/149
+Unofficial LE2 Patch
+https://www.nexusmods.com/masseffectlegendaryedition/mods/8
 
-Skip Minigames for LE2
-https://www.nexusmods.com/masseffectlegendaryedition/mods/304
+Faster Normandy (LE2)
+https://www.nexusmods.com/masseffectlegendaryedition/mods/1151
 
-ME2 Miranda Makeup Edit
-https://www.nexusmods.com/masseffectlegendaryedition/mods/240
-
-Shorter Notifications (LE2)
-https://www.nexusmods.com/masseffectlegendaryedition/mods/390
+FemShep Splash Images
+https://www.nexusmods.com/masseffectlegendaryedition/mods/28
 
 Fish Feeder Mod
 https://www.nexusmods.com/masseffectlegendaryedition/mods/1135
 
-# ME:3
-No Reapers and Unlimited Scan range on Galaxy Map
-https://www.nexusmods.com/masseffectlegendaryedition/mods/141
+(ME2LE) No Headgear for Squadmates
+https://www.nexusmods.com/masseffectlegendaryedition/mods/377
 
+One Probe All Resources
+https://www.nexusmods.com/masseffectlegendaryedition/mods/149
+
+Shorter Notifications (LE2)
+https://www.nexusmods.com/masseffectlegendaryedition/mods/390
+
+Skip Minigames for LE2
+https://www.nexusmods.com/masseffectlegendaryedition/mods/304
+
+Optional Flirting Mod (LE2)
+https://www.nexusmods.com/masseffectlegendaryedition/mods/839
+
+More Gay Romances for LE2
+https://www.nexusmods.com/masseffectlegendaryedition/mods/489
+
+Miranda Butt Shot Restoration (LE2)
+https://www.nexusmods.com/masseffectlegendaryedition/mods/393
+
+# ME:3
 LE3 Community Patch
 https://www.nexusmods.com/masseffectlegendaryedition/mods/13
+
+Dreams - Wear Casuals and or Move Faster (LE3 Nightmares)
+https://www.nexusmods.com/masseffectlegendaryedition/mods/818
+
+Faster Normandy (LE3)
+https://www.nexusmods.com/masseffectlegendaryedition/mods/1179
+
+FemShep Splash Images
+https://www.nexusmods.com/masseffectlegendaryedition/mods/28
+
+Kitsumi's Modded Casual Outfits for LE3
+https://www.nexusmods.com/masseffectlegendaryedition/mods/547
+
+Planet Scanner Mouse Speed Increase (LE3)
+https://www.nexusmods.com/masseffectlegendaryedition/mods/747
+
+No Reapers and Max Scan Range
+https://www.nexusmods.com/masseffectlegendaryedition/mods/357
+
+Shorter Notifications (LE3)
+https://www.nexusmods.com/masseffectlegendaryedition/mods/803
+
+Optional Flirting Mod (LE3)
+https://www.nexusmods.com/masseffectlegendaryedition/mods/608
+
+More Gay Romances
+https://www.nexusmods.com/masseffectlegendaryedition/mods/489
+
+Miranda Butt Shot Restoration (LE3)
+https://www.nexusmods.com/masseffectlegendaryedition/mods/392
+
+# ME:All
+A Lot Of Textures (ALOT)
+https://www.nexusmods.com/masseffectlegendaryedition/mods/363
