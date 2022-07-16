@@ -1,102 +1,101 @@
+Key
+[FMM] = For use with Frosty Mod Manager
+[ETZ] = Extract, then zip as FMM doesn't like some .7z exts
+[IGF] = Install in game folder
+
 # Mod Manager
 https://frostytoolsuite.com/downloads.html
 
 # Bug Fixes
-MEA Fixpack
+MEA Fixpack [FMM]
 https://www.nexusmods.com/masseffectandromeda/mods/541
 
-Cursor fix
+Cursor fix [IGF]
 https://www.nexusmods.com/masseffectandromeda/mods/578
 
-Balanced Weapons patch 1.10
+Balanced Weapons patch 1.10 [FMM]
 https://www.nexusmods.com/masseffectandromeda/mods/410
 
 # Game Play
-Skip Bioware Logo
+Skip Bioware Logo [FMM]
 https://www.nexusmods.com/masseffectandromeda/mods/439
 
-Quick Loot
+Quick Loot [FMM]
 https://www.nexusmods.com/masseffectandromeda/mods/760
 
-Shorter Landings
+Shorter Landings [FMM]
 https://www.nexusmods.com/masseffectandromeda/mods/467
 
-MEA Fixpack
-https://www.nexusmods.com/masseffectandromeda/mods/541
-
-Faster Kadara doors
+Faster Kadara doors [FMM]
 https://www.nexusmods.com/masseffectandromeda/mods/471
 
-Road Rage
+Road Rage [FMM]
 https://www.nexusmods.com/masseffectandromeda/mods/254
 
-Fast Mining
+Fast Mining [FMM]
 https://www.nexusmods.com/masseffectandromeda/mods/761
 
-Camera Mod 
+Camera Mod [FMM]
 https://www.nexusmods.com/masseffectandromeda/mods/629
 
-Cursor fix
-https://www.nexusmods.com/masseffectandromeda/mods/578
-
 # Graphics 
-Blue Scanner and Omnitool inc Combat Omni
+Blue Scanner and Omnitool inc Combat Omni [FMM]
 https://www.nexusmods.com/masseffectandromeda/mods/360
 
-Asari Tweaks
+Asari Tweaks [ETZ]
 https://www.nexusmods.com/masseffectandromeda/mods/455
 
-Pretty Cora
+Pretty Cora [FMM]
 https://www.nexusmods.com/masseffectandromeda/mods/494
 
-Addison Tweak
+Addison Tweak [ETZ]
 https://www.nexusmods.com/masseffectandromeda/mods/457
 
-Turian Makeover
+Turian Makeover [FMM]
 https://www.nexusmods.com/masseffectandromeda/mods/577
 
-Vetra No Visor
+Vetra No Visor [FMM]
 https://www.nexusmods.com/masseffectandromeda/mods/384
 
-Lush Lashes
+Lush Lashes [ETZ]
 https://www.nexusmods.com/masseffectandromeda/mods/342
 
-Peebee Tweak
+Peebee Tweak [ETZ]
 https://www.nexusmods.com/masseffectandromeda/mods/291
 
-Smooth Planet Approach
+Smooth Planet Approach [FMM]
 https://www.nexusmods.com/masseffectandromeda/mods/786
 
-Ryders Wardrobe Overhaul
+Ryders Wardrobe Overhaul [FMM]
 https://www.nexusmods.com/masseffectandromeda/mods/799
 
 # Romance
-Romance For All
+Romance For All [FMM]
 https://www.nexusmods.com/masseffectandromeda/mods/132
 
 # Tweaked Game Play
-More Minerals in Mining Zones
+More Minerals in Mining Zones [FMM]
 https://www.nexusmods.com/masseffectandromeda/mods/681
 
-Remnant Decryption Key Limit Increase
+Remnant Decryption Key Limit Increase [FMM]
 https://www.nexusmods.com/masseffectandromeda/mods/442
 
-Better Squad
+Better Squad [FMM]
 https://www.nexusmods.com/masseffectandromeda/mods/359
 
-More Skill Points Per Level
+More Skill Points Per Level [FMM]
 https://www.nexusmods.com/masseffectandromeda/mods/185
 
-Massively Increased Inventory Size
+Massively Increased Inventory Size [ETZ]
 https://www.nexusmods.com/masseffectandromeda/mods/238
 
-Powers Boosted and Balanced
+Powers Boosted and Balanced [FMM]
 https://www.nexusmods.com/masseffectandromeda/mods/404
 
-Research No Level Requirements
+Research No Level Requirements [FMM]
 https://www.nexusmods.com/masseffectandromeda/mods/231
 
-Two Scott's or Two Sara's
+Two Scott's or Two Sara's [FMM]
 https://www.nexusmods.com/masseffectandromeda/mods/776
 
 # Misc.
