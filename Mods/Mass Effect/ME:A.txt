@@ -5,7 +5,19 @@ https://frostytoolsuite.com/downloads.html
 MEA Fixpack
 https://www.nexusmods.com/masseffectandromeda/mods/541
 
+Cursor fix
+https://www.nexusmods.com/masseffectandromeda/mods/578
+
+Balanced Weapons patch 1.10
+https://www.nexusmods.com/masseffectandromeda/mods/410
+
 # Game Play
+Skip Bioware Logo
+https://www.nexusmods.com/masseffectandromeda/mods/439
+
+Quick Loot
+https://www.nexusmods.com/masseffectandromeda/mods/760
+
 Shorter Landings
 https://www.nexusmods.com/masseffectandromeda/mods/467
 
@@ -43,16 +55,26 @@ https://www.nexusmods.com/masseffectandromeda/mods/457
 Turian Makeover
 https://www.nexusmods.com/masseffectandromeda/mods/577
 
+Vetra No Visor
+https://www.nexusmods.com/masseffectandromeda/mods/384
+
 Lush Lashes
 https://www.nexusmods.com/masseffectandromeda/mods/342
 
-Unmasked Peebee
-https://www.nexusmods.com/masseffectandromeda/mods/208
+Peebee Tweak
+https://www.nexusmods.com/masseffectandromeda/mods/291
 
 Smooth Planet Approach
 https://www.nexusmods.com/masseffectandromeda/mods/786
 
-# Easier Game Play
+Ryders Wardrobe Overhaul
+https://www.nexusmods.com/masseffectandromeda/mods/799
+
+# Romance
+Romance For All
+https://www.nexusmods.com/masseffectandromeda/mods/132
+
+# Tweaked Game Play
 More Minerals in Mining Zones
 https://www.nexusmods.com/masseffectandromeda/mods/681
 
@@ -67,3 +89,16 @@ https://www.nexusmods.com/masseffectandromeda/mods/185
 
 Massively Increased Inventory Size
 https://www.nexusmods.com/masseffectandromeda/mods/238
+
+Powers Boosted and Balanced
+https://www.nexusmods.com/masseffectandromeda/mods/404
+
+Research No Level Requirements
+https://www.nexusmods.com/masseffectandromeda/mods/231
+
+Two Scott's or Two Sara's
+https://www.nexusmods.com/masseffectandromeda/mods/776
+
+# Misc.
+Decision overview
+https://www.nexusmods.com/masseffectandromeda/mods/862
