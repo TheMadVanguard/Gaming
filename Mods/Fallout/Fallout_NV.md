@@ -1,31 +1,53 @@
-WIP
-#Utilites
+## Utilites
+
+FNV 4GB Patcher
+
+https://www.nexusmods.com/newvegas/mods/62552
+
+New Vegas Script Extender (NVSE xNVSE)
+
+https://www.nexusmods.com/newvegas/mods/67883
+
 JIP LN NVSE Plugin
+
 https://www.nexusmods.com/newvegas/mods/58277
 
+UIO - User Interface Organizer
+
+https://www.nexusmods.com/newvegas/mods/57174
+
 NVAC - New Vegas Anti Crash
+
 https://www.nexusmods.com/newvegas/mods/53635
 
 New Vegas Stutter Remover
+
 https://www.nexusmods.com/newvegas/mods/34832
 
-FNV 4GB Patcher
-https://www.nexusmods.com/newvegas/mods/62552
-
 The Someguy Series
+
 https://www.nexusmods.com/newvegas/mods/48925
 
 MTUI
+
 https://www.nexusmods.com/newvegas/mods/34902
 
 NVTF - New Vegas Tick Fix
+
 https://www.nexusmods.com/newvegas/mods/66537
 
-#Textures
+## Textures
+
+Weapon Mesh Improvement Mod
+
+https://www.nexusmods.com/newvegas/mods/65052
+
 Weapon Retexture Project - WRP
+
 https://www.nexusmods.com/newvegas/mods/38285
 
 Fallout Character Overhaul
+
 https://www.nexusmods.com/newvegas/mods/54460
 
 UIO - User Interface Organizer
