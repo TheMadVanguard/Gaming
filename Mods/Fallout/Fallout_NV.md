@@ -50,19 +50,20 @@ Fallout Character Overhaul
 
 https://www.nexusmods.com/newvegas/mods/54460
 
-UIO - User Interface Organizer
-https://www.nexusmods.com/newvegas/mods/57174
-
 New Vegas - Enhanced Camera
+
 https://www.nexusmods.com/newvegas/mods/55334
 
 Interior Lighting Overhaul
+
 https://www.nexusmods.com/newvegas/mods/35794
 
 Enhanced Blood Textures for NV v2_22c
+
 https://www.nexusmods.com/newvegas/mods/34917
 
-aMidianBorn NV Book Of Water
+aMidianBorn NV Book Of Water (both files)
+
 https://www.nexusmods.com/newvegas/mods/39873
 
 Collision Meshes
