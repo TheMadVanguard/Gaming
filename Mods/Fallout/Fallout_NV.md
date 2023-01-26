@@ -90,10 +90,6 @@ Vanilla HUD Remastered (4K)
 
 https://www.nexusmods.com/newvegas/mods/64102
 
-Blackout ENB
-
-https://www.nexusmods.com/newvegas/mods/48203
-
 ## Companions
 
 Delilah- Mojave MD
