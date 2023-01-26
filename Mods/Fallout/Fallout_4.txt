@@ -1,5 +1,5 @@
 WIP
-#Utilites
+##Utilites
 Fallout 4 Script Extender (F4SE)
 http://f4se.silverlock.org/
 
@@ -72,6 +72,23 @@ https://www.nexusmods.com/fallout4/mods/20959
 
 Scrap dead things
 https://www.nexusmods.com/fallout4/mods/6497
+
+Homemaker - Expanded Settlements
+https://www.nexusmods.com/fallout4/mods/1478
+
+#QoL
+Decreased Automatron Encounters and Minor Rust Devil Tweaks
+https://www.nexusmods.com/fallout4/mods/28891
+
+Enough About the Settlements Already Preston
+https://www.nexusmods.com/fallout4/mods/10339
+
+#Settlements
+Better Settlers
+https://www.nexusmods.com/fallout4/mods/4772
+
+Unique NPCs - An Overhaul of the Commonwealth
+https://www.nexusmods.com/fallout4/mods/21248
 
 Homemaker - Expanded Settlements
 https://www.nexusmods.com/fallout4/mods/1478
