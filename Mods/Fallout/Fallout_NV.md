@@ -12,6 +12,10 @@ JIP LN NVSE Plugin
 
 https://www.nexusmods.com/newvegas/mods/58277
 
+JohnnyGuitar NVSE
+
+https://www.nexusmods.com/newvegas/mods/66927
+
 UIO - User Interface Organizer
 
 https://www.nexusmods.com/newvegas/mods/57174
@@ -67,26 +71,46 @@ aMidianBorn NV Book Of Water (both files)
 https://www.nexusmods.com/newvegas/mods/39873
 
 Collision Meshes
+
 https://www.nexusmods.com/newvegas/mods/59149
 
-Improved Robots Textures
+Improved Robots Textures (all)
+
 https://www.nexusmods.com/newvegas/mods/56759
 
-Blackout ENB
-https://www.nexusmods.com/newvegas/mods/48203
-
 Ultimate Invisible Wall Remover
+
 https://www.nexusmods.com/newvegas/mods/48511
 
 EXE - Effect teXtures Enhanced
+
 https://www.nexusmods.com/newvegas/mods/62989
 
 Vanilla HUD Remastered (4K)
 https://www.nexusmods.com/newvegas/mods/64102
 
-#Misc
+Blackout ENB
+https://www.nexusmods.com/newvegas/mods/48203
+
+## Companions
+
+Delilah- Mojave MD
+https://www.nexusmods.com/newvegas/mods/50641
+
+Russell
+
+https://www.nexusmods.com/newvegas/mods/50107
+
+Willow - A Better Companion Experience
+
+https://www.nexusmods.com/newvegas/mods/41779
+
+## Misc
+
 Fallout New Vegas ArchiveInvalidation Invalidated
+
 https://www.nexusmods.com/newvegas/mods/35935
 
 Loot Menu for FNV
+
 https://www.nexusmods.com/newvegas/mods/61723
