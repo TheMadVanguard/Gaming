@@ -117,3 +117,7 @@ https://www.nexusmods.com/newvegas/mods/35935
 Loot Menu for FNV
 
 https://www.nexusmods.com/newvegas/mods/61723
+
+Companions Infinite Ammo
+
+https://www.nexusmods.com/newvegas/mods/37602
