@@ -42,6 +42,10 @@ https://www.nexusmods.com/newvegas/mods/66537
 
 ## Textures
 
+NMCs_Texture_Pack_For_New_Vegas
+
+https://www.nexusmods.com/newvegas/mods/43135
+
 Weapon Mesh Improvement Mod
 
 https://www.nexusmods.com/newvegas/mods/65052
