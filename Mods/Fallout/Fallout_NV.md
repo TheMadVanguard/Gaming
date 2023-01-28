@@ -121,3 +121,7 @@ https://www.nexusmods.com/newvegas/mods/61723
 Companions Infinite Ammo
 
 https://www.nexusmods.com/newvegas/mods/37602
+
+https://www.nexusmods.com/newvegas/mods/41381
+
+Fake Fullscreen Mode Windowed - Alt Tab Fix
