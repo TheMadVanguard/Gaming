@@ -40,6 +40,10 @@ NVTF - New Vegas Tick Fix
 
 https://www.nexusmods.com/newvegas/mods/66537
 
+Faster Start Menu (Skip Splash Screens)
+
+https://www.nexusmods.com/newvegas/mods/62232
+
 ## Textures
 
 NMCs_Texture_Pack_For_New_Vegas
