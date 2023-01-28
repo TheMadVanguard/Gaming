@@ -114,6 +114,10 @@ https://www.nexusmods.com/newvegas/mods/41779
 
 ## Misc
 
+Faster Terminals
+
+https://www.nexusmods.com/newvegas/mods/36902
+
 Fallout New Vegas ArchiveInvalidation Invalidated
 
 https://www.nexusmods.com/newvegas/mods/35935
