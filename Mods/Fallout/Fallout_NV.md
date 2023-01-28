@@ -118,6 +118,10 @@ Faster Terminals
 
 https://www.nexusmods.com/newvegas/mods/36902
 
+Easy Hacking GER_ENG NV
+
+https://www.nexusmods.com/newvegas/mods/35071
+
 Fallout New Vegas ArchiveInvalidation Invalidated
 
 https://www.nexusmods.com/newvegas/mods/35935
